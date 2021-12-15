@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/guntu/AndroidStudioProjects/applock/app/src/main/res/drawable/btn_on_click.xml" value="0.2328125" />
+        <entry key="..\:/Users/guntu/AndroidStudioProjects/applock/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.2328125" />
+        <entry key="..\:/Users/guntu/AndroidStudioProjects/applock/app/src/main/res/drawable/ic_lock.xml" value="0.4" />
+        <entry key="..\:/Users/guntu/AndroidStudioProjects/applock/app/src/main/res/drawable/ic_lock_open_black_24dp.xml" value="0.4" />
+        <entry key="..\:/Users/guntu/AndroidStudioProjects/applock/app/src/main/res/drawable/ic_lock_outline_black_24dp.xml" value="0.4" />
+        <entry key="..\:/Users/guntu/AndroidStudioProjects/applock/app/src/main/res/layout/activity_main.xml" value="0.31657608695652173" />
+        <entry key="..\:/Users/guntu/AndroidStudioProjects/applock/app/src/main/res/layout/activity_pattern_lock.xml" value="0.3278985507246377" />
+        <entry key="..\:/Users/guntu/AndroidStudioProjects/applock/app/src/main/res/layout/layout_apps.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
